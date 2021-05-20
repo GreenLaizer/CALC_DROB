@@ -137,6 +137,11 @@
             // 
             this.edN1.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.edN1.Location = new System.Drawing.Point(91, 94);
+            this.edN1.Maximum = new decimal(new int[] {
+            1000,
+            0,
+            0,
+            0});
             this.edN1.Name = "edN1";
             this.edN1.Size = new System.Drawing.Size(120, 38);
             this.edN1.TabIndex = 18;
@@ -145,6 +150,11 @@
             // 
             this.edD1.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.edD1.Location = new System.Drawing.Point(91, 154);
+            this.edD1.Maximum = new decimal(new int[] {
+            1000,
+            0,
+            0,
+            0});
             this.edD1.Name = "edD1";
             this.edD1.Size = new System.Drawing.Size(120, 38);
             this.edD1.TabIndex = 19;
@@ -169,6 +179,11 @@
             // 
             this.edD2.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.edD2.Location = new System.Drawing.Point(396, 154);
+            this.edD2.Maximum = new decimal(new int[] {
+            1000,
+            0,
+            0,
+            0});
             this.edD2.Name = "edD2";
             this.edD2.Size = new System.Drawing.Size(120, 38);
             this.edD2.TabIndex = 22;
@@ -177,6 +192,11 @@
             // 
             this.edN2.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.edN2.Location = new System.Drawing.Point(396, 94);
+            this.edN2.Maximum = new decimal(new int[] {
+            1000,
+            0,
+            0,
+            0});
             this.edN2.Name = "edN2";
             this.edN2.Size = new System.Drawing.Size(120, 38);
             this.edN2.TabIndex = 21;
@@ -193,6 +213,11 @@
             // 
             this.edD3.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.edD3.Location = new System.Drawing.Point(623, 154);
+            this.edD3.Maximum = new decimal(new int[] {
+            1000,
+            0,
+            0,
+            0});
             this.edD3.Name = "edD3";
             this.edD3.Size = new System.Drawing.Size(120, 38);
             this.edD3.TabIndex = 25;
@@ -201,6 +226,11 @@
             // 
             this.edN3.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.edN3.Location = new System.Drawing.Point(623, 94);
+            this.edN3.Maximum = new decimal(new int[] {
+            1000,
+            0,
+            0,
+            0});
             this.edN3.Name = "edN3";
             this.edN3.Size = new System.Drawing.Size(120, 38);
             this.edN3.TabIndex = 24;
